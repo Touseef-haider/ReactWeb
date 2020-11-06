@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.89601c70.chunk.css",
+    "main.js": "/React/static/js/main.d8af9c21.chunk.js",
+    "main.js.map": "/React/static/js/main.d8af9c21.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.1a456d4b.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.1a456d4b.js.map",
+    "static/js/2.7645e1d4.chunk.js": "/React/static/js/2.7645e1d4.chunk.js",
+    "static/js/2.7645e1d4.chunk.js.map": "/React/static/js/2.7645e1d4.chunk.js.map",
+    "index.html": "/React/index.html",
+    "precache-manifest.625e9628e36960381a06dfb4f253298b.js": "/React/precache-manifest.625e9628e36960381a06dfb4f253298b.js",
+    "service-worker.js": "/React/service-worker.js",
+    "static/css/main.89601c70.chunk.css.map": "/React/static/css/main.89601c70.chunk.css.map",
+    "static/js/2.7645e1d4.chunk.js.LICENSE.txt": "/React/static/js/2.7645e1d4.chunk.js.LICENSE.txt",
+    "static/media/Tanveer.jpg": "/React/static/media/Tanveer.0bd2a5c8.jpg",
+    "static/media/about.jpg": "/React/static/media/about.38e2ba90.jpg",
+    "static/media/gfb.jpg": "/React/static/media/gfb.79466b29.jpg",
+    "static/media/haider.jpg": "/React/static/media/haider.def91b50.jpg",
+    "static/media/v-min.png": "/React/static/media/v-min.34d59def.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a456d4b.js",
+    "static/js/2.7645e1d4.chunk.js",
+    "static/css/main.89601c70.chunk.css",
+    "static/js/main.d8af9c21.chunk.js"
+  ]
+}
